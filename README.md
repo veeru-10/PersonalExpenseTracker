@@ -1,0 +1,2 @@
+# PersonalExpenseTracker
+Display daily expenditure

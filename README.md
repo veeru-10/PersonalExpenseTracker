@@ -22,3 +22,7 @@ Styling: Bootstrap 5
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/196e3e5e-700b-4b8c-9594-24313955f69b" />
 
 
+👩‍💻 Author
+> Veeranjini Vemala
+> GitHub: @veeru-10
+> Email: veeranjinivemala@gmail.com
